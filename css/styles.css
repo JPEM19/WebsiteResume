@@ -1,0 +1,11 @@
+.home {
+    border-style: solid;
+}
+
+.home > div{
+    border-style: dotted;
+}
+
+body {
+    background-color: lightblue;
+}
